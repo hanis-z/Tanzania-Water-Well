@@ -79,6 +79,7 @@ This is so that the government can prepare the resources needed to do the repair
 ├── Modeling.ipynb
 ├── Preprocessing.ipynb  
 ├── README.md
+├── Tanzania Water Well.pdf
 ├── feature_info.md
 
 
